@@ -2,7 +2,7 @@ import telebot
 import pymysql
 from telebot import types
 
-TOKEN = "7787046553:AAGL5wvAhfpXyC5fzG5guNCoFMc_ATzWOIw" 
+TOKEN = "insert your token" 
 bot = telebot.TeleBot(TOKEN)
 
 print("Бот запущен")
